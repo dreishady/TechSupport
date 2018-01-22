@@ -1,0 +1,4 @@
+Administrator:      Username: 11,   Password: abc123
+Technician (Lv. 1): Username: 16,   Password: abc123
+Technician (Lv. 2): Username: 12,   Password: abc123
+Customer:           Username: 1002, Password: abc123
